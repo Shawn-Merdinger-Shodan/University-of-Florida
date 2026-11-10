@@ -1,0 +1,14 @@
+University of Florida Shodan Searches
+=====================================
+
+Hostname:  https://www.shodan.io/search?query=hostname%3Aufl.edu
+Org:       https://www.shodan.io/search?query=org%3A%22University+of+Florida%22
+Net CIDR:  https://www.shodan.io/search?query=net%3A128.227.0.0%2F16
+
+
+UF FTP servers
+++++++++++++++
+
+https://www.shodan.io/search?query=net%3A128.227.0.0%2F16+port%3A21
+https://www.shodan.io/search?query=hostname%3Aufl.edu+port%3A21
+https://www.shodan.io/search?query=port%3A21+org%3A%22University+of+Florida%22
