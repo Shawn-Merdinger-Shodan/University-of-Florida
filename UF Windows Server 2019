@@ -1,0 +1,17 @@
+University of Florida Shodan Searches
+=====================================
+ 
+Hostname:  https://www.shodan.io/search?query=hostname%3Aufl.edu
+Org:       https://www.shodan.io/search?query=org%3A%22University+of+Florida%22
+Net CIDR:  https://www.shodan.io/search?query=net%3A128.227.0.0%2F16
+ 
+ 
+ 
+UF Windows Server 2019
+++++++++++++++++++++++
+
+https://www.shodan.io/search?query=org%3A%22University+of+Florida%22+OS%3A%22Windows+Server+2019%22
+
+https://www.shodan.io/search?query=hostname%3Aufl.edu+OS%3A%22Windows+Server+2019%22
+
+https://www.shodan.io/search?query=net%3A128.227.0.0%2F16+OS%3A%22Windows+Server+2019%22
